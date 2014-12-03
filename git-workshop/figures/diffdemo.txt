@@ -1,0 +1,13 @@
+*** file1	2014-11-27 10:06:47 +0200
+--- file2	2014-11-27 10:06:47 +0200
+***************
+*** 1,4 ****
+- Hello.
+  We are programmers.
+! We say:
+  Hello world!
+--- 1,4 ----
+  We are programmers.
+! Programmers often say:
+  Hello world!
++ (And they never say Goodbye.)
